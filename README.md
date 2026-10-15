@@ -38,7 +38,7 @@ Membuat halaman About yang berisi deskripsi diri dan portofolio.
 Membuat halaman Contact yang berisi formulir nama, email, dan pesan.
 ![Contact](ss/gambar12.png)
 
-**Hasil:**
+## hasil
 ![hasil](ss/gambar13.png)
-**Hasil**
+## hasil
 ![hasil](ss/gambar14.png)
